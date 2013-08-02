@@ -71,7 +71,7 @@ Ben Vinegar / [@bentlegen](http://twitter.com/bentlegen)
 
 ## Disqus in 2011
 
-* SASS commenting platform ($)
+* SAAS commenting platform ($)
 * Tiers: Plus, Pro, VIP
 * Very customizable
 * Template editor, CSS targetable
